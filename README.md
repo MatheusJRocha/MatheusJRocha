@@ -4,7 +4,7 @@
 Olá, sou Matheus! Apaixonado por tecnologia, programação e inovação. Acredito que cada linha de código pode transformar vidas e criar novas oportunidades. Quero contribuir com projetos que fazem a diferença no mundo e ajudam pessoas a resolver problemas reais.
 
 - 🌍 Buscando sempre aprender mais e compartilhar conhecimento  
-- 🛠 **Tech Stack:** Python | Node.js | Redis | PostgreSQL | Jinja2  |  FastAPI | SQLite | SQLAlchemy
+- 🛠 **Tech Stack:** Python | Node.js | Redis | PostgreSQL | Jinja2  |  FastAPI | SQLite | SQLAlchemy | Docker
 - 🎯 **Meu objetivo:** Usar tecnologia para criar soluções que impactem positivamente a vida das pessoas e promovam inovação com propósito  
 - 🔥 Interesse especial em Inteligência Artificial e Automação  
 
