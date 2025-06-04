@@ -1,5 +1,5 @@
 <h1 align="center">Oi👋, eu sou Matheus J Rocha</h1>
-<h3 align="center">Olá, sou Matheus! Apaixonado por tecnologia, programação e inovação. Acredito que cada linha de código pode transformar vidas e criar novas oportunidades. Quero contribuir com projetos que fazem a diferença no mundo e ajudar pessoas a resolver problemas reais.</h3>
+<h3 align="/">Olá, sou Matheus! Apaixonado por tecnologia, programação e inovação. Acredito que cada linha de código pode transformar vidas e criar novas oportunidades. Quero contribuir com projetos que fazem a diferença no mundo e ajudar pessoas a resolver problemas reais.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusjrocha&label=Profile%20views&color=0e75b6&style=flat" alt="matheusjrocha" /> </p>
 
